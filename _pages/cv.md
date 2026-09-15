@@ -11,12 +11,6 @@ redirect_from:
   <a href="/files/Jeremy_Nigri_CV.pdf" class="btn btn--primary" target="_blank">
     <i class="fa fa-download"></i> Download Full CV (PDF)
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=ZOU7ip8AAAAJ" class="btn btn--primary" target="_blank">
-    Google Scholar
-  </a>
-  <a href="https://orcid.org/0000-0003-1358-1863" class="btn btn--primary" target="_blank">
-    ORCID
-  </a>
 </p>
 
 <hr>
