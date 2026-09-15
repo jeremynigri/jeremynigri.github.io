@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow working with Dr. David A. Tuveson at **Cold Spring Harbor Laboratory**[cite: 1]. 
+I am a Postdoctoral Fellow working with Dr. David A. Tuveson at **Cold Spring Harbor Laboratory**. 
 
-My research program is dedicated to **Cancer Neuroscience**, focusing on deciphering the bidirectional crosstalk between **cancer-associated fibroblasts (CAFs)** and **neurons** in pancreatic ductal adenocarcinoma (PDAC)[cite: 1]. 
+My research program is dedicated to **Cancer Neuroscience**, focusing on deciphering the bidirectional crosstalk between **cancer-associated fibroblasts (CAFs)** and **tumor infiltrating neurons** in pancreatic ductal adenocarcinoma (PDAC). 
 
-The primary objective of my future independent laboratory is to uncover how CAF–nerve interactions drive **cancer progression** and **neuropathic pain**, translating these mechanisms into targeted therapies for lethal malignancies[cite: 1].
+The primary objective of my future independent laboratory is to uncover how CAF–nerve interactions drive **cancer progression** and **neuropathic pain**, translating these mechanisms into targeted therapies for lethal malignancies.
 
 <p style="margin: 20px 0;">
   <a href="/cv/" class="btn btn--primary">Curriculum Vitae</a>
@@ -29,5 +29,5 @@ The primary objective of my future independent laboratory is to uncover how CAF�
 
 ### Selected Highlights
 
-* **Lead Publication:** *"Myofibroblasts Induce Neuroplasticity to Promote Pancreatic Inflammation and Cancer Progression"* — ***Cancer Discovery*** (2026)[cite: 1].
-* **Funding:** Supported by a **Department of Defense (DOD) Research Grant** and a **PanCAN Postdoctoral Fellowship**[cite: 1].
+* **Lead Publication:** *"Myofibroblasts Induce Neuroplasticity to Promote Pancreatic Inflammation and Cancer Progression"* — ***Cancer Discovery*** (2026).
+* **Funding:** Supported by a **Department of Defense (DOD) Research Grant** and a **PanCAN Postdoctoral Fellowship**.
