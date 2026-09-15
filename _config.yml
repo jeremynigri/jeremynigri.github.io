@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Jérémy Nigri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Postdoctoral Fellow | Cancer Neuroscience"
+  location         : "Cold Spring Harbor, New York"
   employer         : "Cold Spring Harbor Laboratory"
   uri              : # URL
   email            : "jeremy@cshl.edu" 
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZOU7ip8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1358-1863"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jeremy-Nigri?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
