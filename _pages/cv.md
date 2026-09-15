@@ -114,15 +114,12 @@ redirect_from:
 <ul>
   <li style="margin-bottom: 10px;">
     <strong>Melanie L. Fung</strong> (Research Technician, CSHL) <span style="float:right;"><strong>2025 – Present</strong></span><br>
-    Mentored on in vivo mouse models, organoid co-culture systems, and scientific communication.
   </li>
   <li style="margin-bottom: 10px;">
     <strong>Charlotte Kayser</strong> (Medical Student, CSHL) <span style="float:right;"><strong>2024</strong></span><br>
-    Mentored on translational oncology, neural tracing, and image analysis.
   </li>
   <li style="margin-bottom: 10px;">
     <strong>Marylou Sandri, Zainab Hussain, Tommy Chastel</strong> (M.S. Students, CRCM) <span style="float:right;"><strong>2016 – 2018</strong></span><br>
-    Direct supervision of Master's thesis research, molecular assays, and data analysis.
   </li>
 </ul>
 
